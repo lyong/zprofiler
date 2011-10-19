@@ -3,6 +3,7 @@
     <wb-module deploy-name="Zanalyzer">
         <wb-resource deploy-path="/" source-path="/WebContent"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src_test"/>
         <property name="context-root" value="Zanalyzer"/>
         <property name="java-output-path" value="/Zanalyzer/build/classes"/>
     </wb-module>
